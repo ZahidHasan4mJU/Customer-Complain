@@ -1,0 +1,9 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\bin\Debug\QueueAndDequeue2.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\bin\Debug\QueueAndDequeue2.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\bin\Debug\QueueAndDequeue2.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\obj\Debug\QueueAndDequeue2.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\obj\Debug\QueueAndDequeue2.CustCareForm.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\obj\Debug\QueueAndDequeue2.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\obj\Debug\QueueAndDequeue2.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\obj\Debug\QueueAndDequeue2.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\QueueAndDequeue2\QueueAndDequeue2\obj\Debug\QueueAndDequeue2.pdb
